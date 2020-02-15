@@ -31,17 +31,20 @@ ESTEFANY VANEGAS LOPEZ, GRUPO: 301127A_761, CEDULA 1065624893, SKYPE: effi_1125,
 <table border=0.5">
 <tr>
  <th>Estilos</th>
-  <td><strong>colors</strong></td>
-  <td><strong>Bacgraunds</strong></td>
-  <td><strong>Borders</strong></td>
-  <td><strong>margins</strong></td>
+ <th>Etiquetas</th> 
 </tr>
 <tr>
- <th>Etiquetas</th>
+  <td><strong>colors</strong></td>
   <td><strong>table</strong></td>
+</tr>
+<tr>
+  <td><strong>Bacgraunds</strong></td>
   <td><strong>tr</strong></td>
-  <td><strong>td</strong></td>
-</tr>  
+ </tr>
+ <tr>
+ <td><strong>Borders</strong></td>
+ <td><strong>td</strong></td>
+ </tr>  
   
   
 </body>
