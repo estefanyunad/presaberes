@@ -5,3 +5,37 @@
 body {
 bacgraund-color: pink    
 }
+h1 {
+color:blue;
+text-aling:center
+font-size:30px
+}
+h2
+{
+color:black
+text-aling:center
+font-size:30px
+}
+p
+{
+font-family:verdana;
+font-size:20px
+}
+</style>
+</head>
+<body>
+<h1> PRESABERES </h1>
+<h2>
+ESTEFANY VANEGAS LOPEZ, GRUPO: 301127A_761, CEDULA 1065624893, SKYPE: effi_1125, CELULAR 3135850537, E-MAIL effi_1125@hotmail.com
+</h2>
+<table>
+<tr>
+  <td><strong>colors</strong></td>
+  <td><strong>Bacgraunds</strong></td>
+  <td><strong>Borders</strong></td>
+  <td><strong>margins</strong></td>
+  <td><strong>ctext</strong></td>
+  <td><strong>fonts</strong></td>
+  
+</body>
+</html>
